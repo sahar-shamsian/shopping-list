@@ -1,3 +1,4 @@
 - bacon
 - eggs
 - Xbox
+- Clothes
